@@ -1,6 +1,8 @@
 # Higgs Boson Signal and Background Classification using XGBoost
 ## This Python program is designed to classify signal and background events in the context of Higgs boson searches using the XGBoost machine learning algorithm. It operates on particle physics data, specifically focusing on differentiating between events where a Higgs boson is produced (signal) and other processes (background). The program utilizes a variety of Python libraries for data manipulation, machine learning, and visualization.
 
+## main code:
+> python XGBoost_training_mask_mass.py
 ## Key Features:
 Data Preprocessing: Utilizes uproot to load data from ROOT files, a common format in particle physics. Data is further processed using pandas for dataframe manipulation and awkward for handling jagged arrays.
 
