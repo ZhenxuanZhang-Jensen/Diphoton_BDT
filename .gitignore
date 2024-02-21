@@ -2,10 +2,21 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.png
+*.out
+*.ipynb
+*.pkl
+*.csv
+*.pdf
+*.sh
+*.xml
+*.root
+*.bin
 # C extensions
 *.so
-
+*.parquet
+*.cpp
+*code
 # Distribution / packaging
 .Python
 build/
